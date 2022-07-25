@@ -1,1 +1,1 @@
-# Public repository to download application and updates
+# Public repository to download SharjMaster application and updates
